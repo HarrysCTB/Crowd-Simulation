@@ -1,5 +1,10 @@
 # Projet de Simulation de Foule 🚶‍♀️🚶
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o4b2dyano0djZ0MHlkc3FpNzd3Y3VldW51MTl5MGw1aGd6ZjI3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orif3cAxz0tl2cXQs/giphy.gif" />
+</p>
+
+
 Ce projet est une simulation de foule interactive et visuelle utilisant Python. Il explore les dynamiques complexes des mouvements de foule, y compris l'évitement d'obstacles, le comportement collectif, et les interactions individuelles, avec un accent sur l'analyse et la visualisation des données.
 
 ## Technologies Utilisées 🛠️
@@ -45,5 +50,5 @@ N'oubliez pas de donner une étoile au projet ! Merci encore !
   
 ## Licence 📜
 
-Distribué sous la licence MIT. Voir LICENSE pour plus d'informations.
+Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 
